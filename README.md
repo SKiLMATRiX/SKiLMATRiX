@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.jpg" width="95" alt="SKiL MATRiX">
+<img src="[assets/logo.jpg](https://skilmatrix.site/assets/logo.jpg)" width="95" alt="SKiL MATRiX">
 
 # SKiL MATRiX
 
