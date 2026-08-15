@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/logo.jpg" alt="SKiL MATRiX Logo" width="220" />
+  <img width="1254" height="1254" alt="Image" src="https://github.com/user-attachments/assets/9a582321-1ba0-4a9f-83dc-9c43de7fe361" />
 
   # **SKiL MATRiX**
   
