@@ -43,7 +43,7 @@ SKiL MATRiX is packed with powerful tools to accelerate your learning. Access th
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://skilmatrix.site">Study Notes Hub</a></h3>
+      <h3>📚 <a href="https://skilmatrix.site/pages/dashboard#/notes">Study Notes Hub</a></h3>
       <ul>
         <li><b>Organized Content:</b> Access structured class notes categorized neatly by branch and semester.</li>
         <li><b>PYQs & Solutions:</b> Review past exam papers to understand question patterns.</li>
@@ -51,7 +51,7 @@ SKiL MATRiX is packed with powerful tools to accelerate your learning. Access th
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://skilmatrix.site">Smart AI Doubt Solver</a></h3>
+      <h3>🤖 <a href="https://skilmatrix.site/pages/dashboard?tab=ai-tools">Smart AI Doubt Solver</a></h3>
       <ul>
         <li><b>Instant Clarification:</b> Paste your question and let our AI explain complex concepts step-by-step.</li>
         <li><b>Interactive Learning:</b> Conversational AI that adapts to your learning pace.</li>
@@ -60,7 +60,7 @@ SKiL MATRiX is packed with powerful tools to accelerate your learning. Access th
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏆 <a href="https://skilmatrix.site/dashboard?tab=leaderboard">Leaderboard & Rewards</a></h3>
+      <h3>🏆 <a href="https://skilmatrix.site/pages/dashboard?tab=leaderboard">Leaderboard & Rewards</a></h3>
       <ul>
         <li><b>Earn Points:</b> Upload study materials and refer friends to earn points.</li>
         <li><b>Climb the Ranks:</b> Compete on the Global Leaderboard (Daily, Weekly, All-Time).</li>
@@ -68,7 +68,7 @@ SKiL MATRiX is packed with powerful tools to accelerate your learning. Access th
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💻 <a href="https://skilmatrix.site">Coding Arena</a></h3>
+      <h3>💻 <a href="https://skilmatrix.site/pages/dashboard?tab=coding-arena">Coding Arena</a></h3>
       <ul>
         <li><b>Solve Challenges:</b> Hone your programming skills with interactive coding problems.</li>
         <li><b>Coder Leaderboard:</b> Compete with peers globally to see who writes the most efficient code.</li>
@@ -77,7 +77,7 @@ SKiL MATRiX is packed with powerful tools to accelerate your learning. Access th
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://skilmatrix.site">Analytics & Planner</a></h3>
+      <h3>📊 <a href="https://skilmatrix.site/pages/dashboard?tab=planner">Analytics & Planner</a></h3>
       <ul>
         <li><b>Study Analytics:</b> Keep track of your study time and subject progress visually.</li>
         <li><b>Dynamic Planner:</b> Generate AI-backed schedules to optimize exam preparation.</li>
@@ -104,25 +104,34 @@ SKiL MATRiX is built by a passionate team dedicated to redefining digital educat
   <table width="100%">
     <tr>
       <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/e3d047c6-75ca-4aea-a7ab-cdf02c819c40" width="140" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Tanishq"/>
+        <img src="https://github.com/user-attachments/assets/e3d047c6-75ca-4aea-a7ab-cdf02c819c40" width="140" height="140" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Tanishq"/>
         <br /><br />
         <b>Tanishq Agrawal</b>
         <br />
         <i>Founder</i>
+        <br /><br />
+        <a href="https://github.com/tanishqagrawal-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+        <a href="https://www.linkedin.com/in/tanishq-agrawal-91a505335"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
       </td>
       <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/40cfdbac-dfd7-4b00-8a1b-6a9487e7fa22" width="140" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Anoop"/>
+        <img src="https://github.com/user-attachments/assets/40cfdbac-dfd7-4b00-8a1b-6a9487e7fa22" width="140" height="140" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Anoop"/>
         <br /><br />
         <b>Anoop</b>
         <br />
         <i>Founder</i>
+        <br /><br />
+        <a href="https://github.com/MakoShar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+        <a href="https://www.linkedin.com/in/anoop-verma-12078b322"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
       </td>
       <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/deedbf77-b970-40c2-b19d-c2ccdc70aff1" width="140" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Yash"/>
+        <img src="https://github.com/user-attachments/assets/deedbf77-b970-40c2-b19d-c2ccdc70aff1" width="140" height="140" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Yash"/>
         <br /><br />
         <b>Yash</b>
         <br />
         <i>Founder</i>
+        <br /><br />
+        <a href="https://github.com/Yash-Jain2006"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+        <a href="https://www.linkedin.com/in/yash-jain-jan2006"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
       </td>
     </tr>
   </table>
@@ -136,7 +145,7 @@ Join thousands of students leveraging SKiL MATRiX. Connect with us to report iss
 
 <div align="center">
   <a href="https://skilmatrix.site"><img src="https://img.shields.io/badge/Website-skilmatrix.site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  <a href="https://wa.me/YOUR_PHONE_NUMBER_HERE"><img src="https://img.shields.io/badge/WhatsApp-Contact_Us-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://chat.whatsapp.com/JRfWjBhzkALJHPgeMAnNvT"><img src="https://img.shields.io/badge/WhatsApp-Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Community"/></a>
 </div>
 
 ---
