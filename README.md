@@ -3,67 +3,96 @@
 
   # **SKiL MATRiX**
   
-  <p><b>Your Smartest Academic Companion & AI Study Hub</b></p>
-  <p><i>Access premium study notes, PYQs, and interactive AI learning tools—all in one place.</i></p>
+  <p><b>Your Smartest Academic Companion & Free AI Study Hub</b></p>
+  <p><i>Access premium study notes, PYQs, syllabi, and interactive AI learning tools—all in one place.</i></p>
 
   <!-- Badges -->
   <p>
     <a href="https://skilmatrix.site"><img src="https://img.shields.io/badge/Platform-Live-00E5FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Status" /></a>
-    <img src="https://img.shields.io/badge/License-MIT-8A2BE2?style=for-the-badge" alt="License" />
-    <img src="https://img.shields.io/badge/Maintained%3F-yes-00FA9A?style=for-the-badge" alt="Maintenance" />
-    <img src="https://img.shields.io/badge/Contributions-Welcome-FF1493?style=for-the-badge" alt="Contributions" />
+    <img src="https://img.shields.io/badge/Access-Free_for_Students-00FA9A?style=for-the-badge" alt="Free Access" />
+    <img src="https://img.shields.io/badge/Contributions-Welcome-FF1493?style=for-the-badge" alt="Contributions Welcome" />
   </p>
 
   <br />
   
-  <!-- Hero / Preview Image (Using one of your premium assets) -->
-  <img src="https://github.com/user-attachments/assets/e3d047c6-75ca-4aea-a7ab-cdf02c819c40" alt="SKiL MATRiX Platform Preview" width="850" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" />
+  <!-- Hero / Preview Image -->
+  <img src="./assets/skilmatrix_og_premium.png" alt="SKiL MATRiX Platform Preview" width="850" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" />
 </div>
 
 <br />
 
-## ✨ Why Choose SKiL MATRiX?
+## 📖 Overview
 
-Unlike traditional file repositories, **SKiL MATRiX** is an interactive, AI-driven educational platform designed with a premium, glassmorphic UI. It empowers university students by combining static resources with dynamic intelligence, fostering an engaging and distraction-free learning environment.
+**SKiL MATRiX** is a modern, collaborative educational platform built specifically to streamline the academic journey for college and university students. By combining traditional resources like **Previous Year Questions (PYQs), formula sheets, and comprehensive class notes** with next-generation **AI study tools**, SKiL MATRiX provides an unparalleled, distraction-free learning experience.
+
+Whether you're preparing for mid-terms or diving deep into core engineering subjects, our platform ensures you have the smartest resources right at your fingertips.
 
 <br />
 
-## 🚀 Core Features
+## 🚀 How to Use SKiL MATRiX
+
+Getting started is instant and completely free. Follow these steps to supercharge your studies:
+
+1. **Visit the Web App:** Head over to our official portal at [skilmatrix.site](https://skilmatrix.site).
+2. **Quick Login:** Click **"Continue with Google"** to save your progress, unlock AI tools, and access the personalized dashboard. Alternatively, use **"Continue as Guest"** for quick browsing.
+3. **Select Your Program:** Navigate through your specific college, branch, and semester to find curated notes and past papers.
+4. **Use AI Tools:** Got a doubt? Open the **Smart AI Doubt Solver** directly from your dashboard to get instant, accurate explanations.
+
+<br />
+
+## ✨ Platform Tools & Features
+
+SKiL MATRiX is packed with powerful tools to accelerate your learning. Access them directly from your dashboard:
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 Comprehensive Resources</h3>
+      <h3>📚 <a href="https://skilmatrix.site">Study Notes Hub</a></h3>
       <ul>
-        <li><b>Organized Notes:</b> Access class notes across all branches and semesters.</li>
-        <li><b>PYQs & Solutions:</b> Previous Year Questions integrated with detailed answers.</li>
-        <li><b>Quick Formula Sheets:</b> High-yield summaries for last-minute revisions.</li>
+        <li><b>Organized Content:</b> Access structured class notes categorized neatly by branch and semester.</li>
+        <li><b>PYQs & Solutions:</b> Review past exam papers to understand question patterns.</li>
+        <li><b>Quick Formula Sheets:</b> High-yield summaries tailored for last-minute revisions.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Smart AI Integration</h3>
+      <h3>🤖 <a href="https://skilmatrix.site">Smart AI Doubt Solver</a></h3>
       <ul>
-        <li><b>AI Doubt Solver:</b> Clarify complex concepts instantly.</li>
-        <li><b>Smart Analytics:</b> Track your study time and progress.</li>
-        <li><b>Dynamic Planner:</b> AI-generated schedules to optimize your exams.</li>
+        <li><b>Instant Clarification:</b> Paste your question and let our AI explain complex concepts step-by-step.</li>
+        <li><b>Interactive Learning:</b> Conversational AI that adapts to your learning pace.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎨 Premium UI/UX</h3>
+      <h3>🏆 <a href="https://skilmatrix.site/dashboard?tab=leaderboard">Leaderboard & Rewards</a></h3>
       <ul>
-        <li><b>Glassmorphism Design:</b> Sleek, translucent, and modern aesthetics.</li>
-        <li><b>Responsive & Fast:</b> Optimized for Mobile, Tablet, and Desktop.</li>
-        <li><b>Distraction-Free:</b> Clean layouts focusing solely on learning.</li>
+        <li><b>Earn Points:</b> Upload study materials and refer friends to earn points.</li>
+        <li><b>Climb the Ranks:</b> Compete on the Global Leaderboard (Daily, Weekly, All-Time).</li>
+        <li><b>Unlock Rewards:</b> Top contributors win exclusive platform rewards and premium badges!</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 Secure & Scalable</h3>
+      <h3>💻 <a href="https://skilmatrix.site">Coding Arena</a></h3>
       <ul>
-        <li><b>One-Tap Login:</b> Seamless Google & Guest Authentication.</li>
-        <li><b>Privacy First:</b> Strict data protection for all users.</li>
-        <li><b>Admin Console:</b> Robust moderation and content management.</li>
+        <li><b>Solve Challenges:</b> Hone your programming skills with interactive coding problems.</li>
+        <li><b>Coder Leaderboard:</b> Compete with peers globally to see who writes the most efficient code.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://skilmatrix.site">Analytics & Planner</a></h3>
+      <ul>
+        <li><b>Study Analytics:</b> Keep track of your study time and subject progress visually.</li>
+        <li><b>Dynamic Planner:</b> Generate AI-backed schedules to optimize exam preparation.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Premium User Experience</h3>
+      <ul>
+        <li><b>Glassmorphic UI:</b> A sleek, translucent, and highly modern aesthetic.</li>
+        <li><b>Distraction-Free Mode:</b> Clean layouts focusing entirely on your educational content.</li>
+        <li><b>Community Driven:</b> Built by students, for students.</li>
       </ul>
     </td>
   </tr>
@@ -71,61 +100,33 @@ Unlike traditional file repositories, **SKiL MATRiX** is an interactive, AI-driv
 
 <br />
 
-## 💻 Platform Availability
-
-| Platform | Status | Access |
-| :--- | :---: | :--- |
-| 🌐 **Web App** | ✅ Live | [Visit SKiL MATRiX](https://skilmatrix.site) |
-| 📱 **Mobile (PWA)** | ✅ Supported | Install via browser prompt |
-| 💻 **Desktop (Windows/Mac)** | ⏳ Planned | Coming Soon |
-
-<br />
-
-## 🏁 Quick Start
-
-Getting started is completely frictionless.
-
-1. **Visit the Platform:** Go to [skilmatrix.site](https://skilmatrix.site)
-2. **Authenticate:** Click **"Continue with Google"** for a personalized dashboard, or **"Continue as Guest"** for instant access.
-3. **Explore:** Use the sidebar to navigate through Notes, PYQs, the AI Solver, and the Study Planner.
-
-<br />
-
-## 🤝 Contribution Guidelines
-
-We believe in community-driven education. Want to add your notes or improve the platform?
-
-- ✅ **DO:** Upload clear, well-scanned educational materials (PDF/Docs).
-- ✅ **DO:** Use descriptive file names and categorize by the correct subject/year.
-- ❌ **DON'T:** Upload copyrighted textbooks or inappropriate content.
-- ❌ **DON'T:** Spam the repository with duplicate materials.
-
-*To contribute code or suggest features, please open an Issue or submit a Pull Request.*
-
-<br />
-
 ## 👑 Meet the Founders
 
+SKiL MATRiX is built by a passionate team dedicated to redefining digital education.
+
 <div align="center">
-  <table width="80%">
+  <table width="100%">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github.com/user-attachments/assets/deedbf77-b970-40c2-b19d-c2ccdc70aff1" width="120" style="border-radius:50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Tanishq"/>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/deedbf77-b970-40c2-b19d-c2ccdc70aff1" width="120" height="120" style="border-radius:50%; object-fit:cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Tanishq"/>
         <br />
         <b>Tanishq Agrawal</b>
         <br />
-        <i>Visionary & Lead Developer</i>
-        <br />
-        <p style="font-size: 13px;">Passionate about building scalable applications, system architecture, and crafting premium user experiences.</p>
+        <i>Founder & Lead Developer</i>
       </td>
-      <td align="center" width="50%">
-        <img src="https://github.com/user-attachments/assets/40cfdbac-dfd7-4b00-8a1b-6a9487e7fa22" width="120" style="border-radius:50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Anoop"/>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/40cfdbac-dfd7-4b00-8a1b-6a9487e7fa22" width="120" height="120" style="border-radius:50%; object-fit:cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Anoop"/>
         <br />
         <b>Anoop</b>
         <br />
         <i>Co-Founder & Product Lead</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/e3d047c6-75ca-4aea-a7ab-cdf02c819c40" width="120" height="120" style="border-radius:50%; object-fit:cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Yash"/>
         <br />
-        <p style="font-size: 13px;">Dedicated to product strategy, community growth, and ensuring our educational tools meet student needs.</p>
+        <b>Yash</b>
+        <br />
+        <i>Co-Founder</i>
       </td>
     </tr>
   </table>
@@ -133,12 +134,13 @@ We believe in community-driven education. Want to add your notes or improve the 
 
 <br />
 
-## 📞 Support & Connect
+## 📞 Support & Community
+
+Join thousands of students leveraging SKiL MATRiX. Connect with us to report issues, suggest features, or get support.
 
 <div align="center">
   <a href="https://skilmatrix.site"><img src="https://img.shields.io/badge/Website-skilmatrix.site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-@skilmatrix-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-SKiL_MATRiX-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
 ---
