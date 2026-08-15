@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo_transparent.png" alt="SKiL MATRiX Logo" width="200" />
+  <img src="./assets/logo_transparent.png" alt="SKiL MATRiX Logo" width="200" />
 
   # SKiL MATRiX
   **Free College Notes, PYQs & Smart AI Study Tools**
@@ -38,22 +38,22 @@ The platform is designed to be completely user-centric with zero setup required 
   <table>
     <tr>
       <td align="center">
-        <img src="https://via.placeholder.com/150" width="150" style="border-radius:50%;" alt="Founder 1"/>
+        <img src="./assets/tanishq.jpg" width="150" style="border-radius:50%;" alt="Tanishq"/>
         <br />
-        <b>[Founder 1 Name]</b>
+        <b>Tanishq Agrawal</b>
         <br />
-        <i>[Role / Title, e.g., Visionary & Lead Developer]</i>
+        <i>Visionary & Lead Developer</i>
         <br />
-        [Brief description about Founder 1's vision, expertise, and contribution to SKiL MATRiX. Add social links if desired.]
+        Passionate about building scalable applications and driving the core architecture of SKiL MATRiX.
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/150" width="150" style="border-radius:50%;" alt="Founder 2"/>
+        <img src="./assets/anoop.jpg" width="150" style="border-radius:50%;" alt="Anoop"/>
         <br />
-        <b>[Founder 2 Name]</b>
+        <b>Anoop</b>
         <br />
-        <i>[Role / Title, e.g., Co-Founder & Product Lead]</i>
+        <i>Co-Founder & Product Lead</i>
         <br />
-        [Brief description about Founder 2's vision, expertise, and contribution to SKiL MATRiX. Add social links if desired.]
+        Focused on product strategy, user experience, and expanding the reach of our educational tools.
       </td>
     </tr>
   </table>
