@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1254" height="1254" alt="Image" src="https://github.com/user-attachments/assets/9a582321-1ba0-4a9f-83dc-9c43de7fe361" />
+  <img src="https://github.com/user-attachments/assets/9a582321-1ba0-4a9f-83dc-9c43de7fe361" alt="SKiL MATRiX Logo" width="220" />
 
   # **SKiL MATRiX**
   
@@ -17,7 +17,7 @@
   <br />
   
   <!-- Hero / Preview Image (Using one of your premium assets) -->
-  <img src="./assets/skilmatrix_og_premium.png" alt="SKiL MATRiX Platform Preview" width="850" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" />
+  <img src="https://github.com/user-attachments/assets/e3d047c6-75ca-4aea-a7ab-cdf02c819c40" alt="SKiL MATRiX Platform Preview" width="850" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" />
 </div>
 
 <br />
@@ -110,7 +110,7 @@ We believe in community-driven education. Want to add your notes or improve the 
   <table width="80%">
     <tr>
       <td align="center" width="50%">
-        <img src="./assets/tanishq.jpg" width="120" style="border-radius:50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Tanishq"/>
+        <img src="https://github.com/user-attachments/assets/deedbf77-b970-40c2-b19d-c2ccdc70aff1" width="120" style="border-radius:50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Tanishq"/>
         <br />
         <b>Tanishq Agrawal</b>
         <br />
@@ -119,7 +119,7 @@ We believe in community-driven education. Want to add your notes or improve the 
         <p style="font-size: 13px;">Passionate about building scalable applications, system architecture, and crafting premium user experiences.</p>
       </td>
       <td align="center" width="50%">
-        <img src="./assets/anoop.jpg" width="120" style="border-radius:50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Anoop"/>
+        <img src="https://github.com/user-attachments/assets/40cfdbac-dfd7-4b00-8a1b-6a9487e7fa22" width="120" style="border-radius:50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Anoop"/>
         <br />
         <b>Anoop</b>
         <br />
