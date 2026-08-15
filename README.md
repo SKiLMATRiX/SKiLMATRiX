@@ -1,73 +1,147 @@
 <div align="center">
-  <img src="./assets/logo_transparent.png" alt="SKiL MATRiX Logo" width="200" />
+  <img src="./assets/logo_transparent.png" alt="SKiL MATRiX Logo" width="220" />
 
-  # SKiL MATRiX
-  **Free College Notes, PYQs & Smart AI Study Tools**
+  # **SKiL MATRiX**
   
-  [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
+  <p><b>Your Smartest Academic Companion & AI Study Hub</b></p>
+  <p><i>Access premium study notes, PYQs, and interactive AI learning tools—all in one place.</i></p>
+
+  <!-- Badges -->
+  <p>
+    <a href="https://skilmatrix.site"><img src="https://img.shields.io/badge/Platform-Live-00E5FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Status" /></a>
+    <img src="https://img.shields.io/badge/License-MIT-8A2BE2?style=for-the-badge" alt="License" />
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-00FA9A?style=for-the-badge" alt="Maintenance" />
+    <img src="https://img.shields.io/badge/Contributions-Welcome-FF1493?style=for-the-badge" alt="Contributions" />
+  </p>
+
+  <br />
+  
+  <!-- Hero / Preview Image (Using one of your premium assets) -->
+  <img src="./assets/skilmatrix_og_premium.png" alt="SKiL MATRiX Platform Preview" width="850" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" />
 </div>
 
----
+<br />
 
-## 📖 Overview
+## ✨ Why Choose SKiL MATRiX?
 
-**SKiL MATRiX** is your smartest academic companion. Designed to empower students with high-quality educational resources, this platform provides access to comprehensive free study notes, previous year question papers (PYQs), and syllabi for various colleges and engineering branches. 
+Unlike traditional file repositories, **SKiL MATRiX** is an interactive, AI-driven educational platform designed with a premium, glassmorphic UI. It empowers university students by combining static resources with dynamic intelligence, fostering an engaging and distraction-free learning environment.
 
-Beyond static resources, SKiL MATRiX integrates cutting-edge AI tools to offer an interactive learning experience, including an AI doubt solver and smart study analytics, all wrapped in a premium, highly responsive user interface.
+<br />
 
-## ✨ Key Features
+## 🚀 Core Features
 
-- **📚 Comprehensive Study Hub:** Instant access to structured notes, model papers, and PYQs.
-- **🤖 Smart AI Doubt Solver:** AI-powered assistance to help clarify concepts and solve complex problems on the go.
-- **📊 Study Analytics:** Track your progress and manage your time efficiently with built-in planner tools.
-- **🔐 Secure Authentication:** Seamless user onboarding with fast login methods and Guest access modes.
-- **🎨 Premium UI/UX:** A modern, sleek, and responsive design featuring glassmorphic elements, smooth micro-animations, and a dynamic dashboard.
-- **👑 Admin Console:** Robust administrative tools for managing the platform efficiently and securely.
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Comprehensive Resources</h3>
+      <ul>
+        <li><b>Organized Notes:</b> Access class notes across all branches and semesters.</li>
+        <li><b>PYQs & Solutions:</b> Previous Year Questions integrated with detailed answers.</li>
+        <li><b>Quick Formula Sheets:</b> High-yield summaries for last-minute revisions.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Smart AI Integration</h3>
+      <ul>
+        <li><b>AI Doubt Solver:</b> Clarify complex concepts instantly.</li>
+        <li><b>Smart Analytics:</b> Track your study time and progress.</li>
+        <li><b>Dynamic Planner:</b> AI-generated schedules to optimize your exams.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Premium UI/UX</h3>
+      <ul>
+        <li><b>Glassmorphism Design:</b> Sleek, translucent, and modern aesthetics.</li>
+        <li><b>Responsive & Fast:</b> Optimized for Mobile, Tablet, and Desktop.</li>
+        <li><b>Distraction-Free:</b> Clean layouts focusing solely on learning.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 Secure & Scalable</h3>
+      <ul>
+        <li><b>One-Tap Login:</b> Seamless Google & Guest Authentication.</li>
+        <li><b>Privacy First:</b> Strict data protection for all users.</li>
+        <li><b>Admin Console:</b> Robust moderation and content management.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## 🚀 Getting Started
+<br />
 
-The platform is designed to be completely user-centric with zero setup required for students.
+## 💻 Platform Availability
 
-1. **Visit the Platform:** Go to our official web app.
-2. **Sign In:** Use quick login for a personalized experience, or choose "Continue as Guest" for immediate access.
-3. **Explore:** Navigate through the dashboard to access notes, tools, and the AI planner.
+| Platform | Status | Access |
+| :--- | :---: | :--- |
+| 🌐 **Web App** | ✅ Live | [Visit SKiL MATRiX](https://skilmatrix.site) |
+| 📱 **Mobile (PWA)** | ✅ Supported | Install via browser prompt |
+| 💻 **Desktop (Windows/Mac)** | ⏳ Planned | Coming Soon |
 
-## 👥 Meet the Founders
+<br />
+
+## 🏁 Quick Start
+
+Getting started is completely frictionless.
+
+1. **Visit the Platform:** Go to [skilmatrix.site](https://skilmatrix.site)
+2. **Authenticate:** Click **"Continue with Google"** for a personalized dashboard, or **"Continue as Guest"** for instant access.
+3. **Explore:** Use the sidebar to navigate through Notes, PYQs, the AI Solver, and the Study Planner.
+
+<br />
+
+## 🤝 Contribution Guidelines
+
+We believe in community-driven education. Want to add your notes or improve the platform?
+
+- ✅ **DO:** Upload clear, well-scanned educational materials (PDF/Docs).
+- ✅ **DO:** Use descriptive file names and categorize by the correct subject/year.
+- ❌ **DON'T:** Upload copyrighted textbooks or inappropriate content.
+- ❌ **DON'T:** Spam the repository with duplicate materials.
+
+*To contribute code or suggest features, please open an Issue or submit a Pull Request.*
+
+<br />
+
+## 👑 Meet the Founders
 
 <div align="center">
-  <table>
+  <table width="80%">
     <tr>
-      <td align="center">
-        <img src="./assets/tanishq.jpg" width="150" style="border-radius:50%;" alt="Tanishq"/>
+      <td align="center" width="50%">
+        <img src="./assets/tanishq.jpg" width="120" style="border-radius:50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Tanishq"/>
         <br />
         <b>Tanishq Agrawal</b>
         <br />
         <i>Visionary & Lead Developer</i>
         <br />
-        Passionate about building scalable applications and driving the core architecture of SKiL MATRiX.
+        <p style="font-size: 13px;">Passionate about building scalable applications, system architecture, and crafting premium user experiences.</p>
       </td>
-      <td align="center">
-        <img src="./assets/anoop.jpg" width="150" style="border-radius:50%;" alt="Anoop"/>
+      <td align="center" width="50%">
+        <img src="./assets/anoop.jpg" width="120" style="border-radius:50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Anoop"/>
         <br />
         <b>Anoop</b>
         <br />
         <i>Co-Founder & Product Lead</i>
         <br />
-        Focused on product strategy, user experience, and expanding the reach of our educational tools.
+        <p style="font-size: 13px;">Dedicated to product strategy, community growth, and ensuring our educational tools meet student needs.</p>
       </td>
     </tr>
   </table>
 </div>
 
-## 🛡️ Security & Privacy
+<br />
 
-We value user data and security. The platform implements robust, secure authentication protocols and maintains strict data privacy standards to ensure a safe learning environment. *(Note: Backend architecture and API details are kept private to maintain system integrity).*
+## 📞 Support & Connect
 
-## 🤝 Contributing
-
-We welcome community feedback! If you're interested in contributing study materials or suggesting new features, please open an issue or reach out to our team.
+<div align="center">
+  <a href="https://skilmatrix.site"><img src="https://img.shields.io/badge/Website-skilmatrix.site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-@skilmatrix-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-SKiL_MATRiX-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
 
 ---
 <div align="center">
-  <i>Empowering the students of today to build the technology of tomorrow.</i>
+  <b>Built with ❤️ for the student community.</b>
 </div>
