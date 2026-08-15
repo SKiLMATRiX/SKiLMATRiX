@@ -13,10 +13,6 @@
     <img src="https://img.shields.io/badge/Contributions-Welcome-FF1493?style=for-the-badge" alt="Contributions Welcome" />
   </p>
 
-  <br />
-  
-  <!-- Hero / Preview Image -->
-  <img src="./assets/skilmatrix_og_premium.png" alt="SKiL MATRiX Platform Preview" width="850" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" />
 </div>
 
 <br />
@@ -108,25 +104,25 @@ SKiL MATRiX is built by a passionate team dedicated to redefining digital educat
   <table width="100%">
     <tr>
       <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/deedbf77-b970-40c2-b19d-c2ccdc70aff1" width="120" height="120" style="border-radius:50%; object-fit:cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Tanishq"/>
-        <br />
+        <img src="https://github.com/user-attachments/assets/e3d047c6-75ca-4aea-a7ab-cdf02c819c40" width="140" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Tanishq"/>
+        <br /><br />
         <b>Tanishq Agrawal</b>
         <br />
-        <i>Founder & Lead Developer</i>
+        <i>Founder</i>
       </td>
       <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/40cfdbac-dfd7-4b00-8a1b-6a9487e7fa22" width="120" height="120" style="border-radius:50%; object-fit:cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Anoop"/>
-        <br />
+        <img src="https://github.com/user-attachments/assets/40cfdbac-dfd7-4b00-8a1b-6a9487e7fa22" width="140" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Anoop"/>
+        <br /><br />
         <b>Anoop</b>
         <br />
-        <i>Co-Founder & Product Lead</i>
+        <i>Founder</i>
       </td>
       <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/e3d047c6-75ca-4aea-a7ab-cdf02c819c40" width="120" height="120" style="border-radius:50%; object-fit:cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Yash"/>
-        <br />
+        <img src="https://github.com/user-attachments/assets/deedbf77-b970-40c2-b19d-c2ccdc70aff1" width="140" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Yash"/>
+        <br /><br />
         <b>Yash</b>
         <br />
-        <i>Co-Founder</i>
+        <i>Founder</i>
       </td>
     </tr>
   </table>
@@ -140,7 +136,7 @@ Join thousands of students leveraging SKiL MATRiX. Connect with us to report iss
 
 <div align="center">
   <a href="https://skilmatrix.site"><img src="https://img.shields.io/badge/Website-skilmatrix.site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-@skilmatrix-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://wa.me/YOUR_PHONE_NUMBER_HERE"><img src="https://img.shields.io/badge/WhatsApp-Contact_Us-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </div>
 
 ---
