@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/logo_transparent.png" alt="SKiL MATRiX Logo" width="220" />
+  <img src="./assets/logo.jpg" alt="SKiL MATRiX Logo" width="220" />
 
   # **SKiL MATRiX**
   
