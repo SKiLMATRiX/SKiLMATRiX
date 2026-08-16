@@ -1,45 +1,67 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9a582321-1ba0-4a9f-83dc-9c43de7fe361" alt="SKiL MATRiX Logo" width="220" />
 
-  # **SKiL MATRiX**
-  
-  <p><b>Your Smartest Academic Companion & Free AI Study Hub</b></p>
-  <p><i>Access premium study notes, PYQs, syllabi, and interactive AI learning tools—all in one place.</i></p>
+<img src="https://github.com/user-attachments/assets/9a582321-1ba0-4a9f-83dc-9c43de7fe361"
+     alt="SKiL MATRiX Logo"
+     width="220">
 
-  <!-- Badges -->
-  <p>
-    <a href="https://skilmatrix.site"><img src="https://img.shields.io/badge/Platform-Live-00E5FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Status" /></a>
-    <img src="https://img.shields.io/badge/Access-Free_for_Students-00FA9A?style=for-the-badge" alt="Free Access" />
-    <img src="https://img.shields.io/badge/Contributions-Welcome-FF1493?style=for-the-badge" alt="Contributions Welcome" />
-  </p>
+# SKiL MATRiX
+
+### Your Smart Academic Companion & Free AI Study Hub
+
+<p>
+  <b>
+    Notes • PYQs • Syllabus • Study Resources • AI-Powered Learning Tools
+  </b>
+</p>
+
+<p>
+  <a href="https://skilmatrix.site">
+    <img src="https://img.shields.io/badge/🌐_Visit_SKIL_MATRiX-00D9FF?style=for-the-badge" alt="Visit SKiL MATRiX">
+  </a>
+  <img src="https://img.shields.io/badge/ACCESS-FREE_FOR_STUDENTS-00E676?style=for-the-badge" alt="Free for Students">
+</p>
+
+<p>
+  <i>
+    A modern learning platform built to make academic resources easier to discover,
+    access, and learn from.
+  </i>
+</p>
 
 </div>
 
-<br />
+---
 
-## 📖 Overview
+## 📚 Overview
 
-**SKiL MATRiX** is a modern, collaborative educational platform built specifically to streamline the academic journey for college and university students. By combining traditional resources like **Previous Year Questions (PYQs), formula sheets, and comprehensive class notes** with next-generation **AI study tools**, SKiL MATRiX provides an unparalleled, distraction-free learning experience.
+**SKiL MATRiX** is a student learning platform designed for **engineering and university students**, bringing essential academic resources together in one place.
 
-Whether you're preparing for mid-terms or diving deep into core engineering subjects, our platform ensures you have the smartest resources right at your fingertips.
+Students can discover **study notes, Previous Year Questions (PYQs), syllabi, formula sheets, practical resources, coding practice, and AI-powered learning tools** through a structured and easy-to-use platform.
+
+Whether you are preparing for university examinations, revising important concepts, practicing programming, or looking for academic resources, **SKiL MATRiX** helps you find the right resources faster.
+
+🌐 **Visit the official platform:**  
+https://skilmatrix.site
 
 <br />
 
 ## 🚀 How to Use SKiL MATRiX
 
-Getting started is instant and completely free. Follow these steps to supercharge your studies:
+Getting started is simple:
 
-1. **Visit the Web App:** Head over to our official portal at [skilmatrix.site](https://skilmatrix.site).
-2. **Quick Login:** Click **"Continue with Google"** to save your progress, unlock AI tools, and access the personalized dashboard. Alternatively, use **"Continue as Guest"** for quick browsing.
-3. **Select Your Program:** Navigate through your specific college, branch, and semester to find curated notes and past papers.
-4. **Use AI Tools:** Got a doubt? Open the **Smart AI Doubt Solver** directly from your dashboard to get instant, accurate explanations.
+1. **Visit the Platform:** Go to [skilmatrix.site](https://skilmatrix.site).
+2. **Quick Login:** Continue with Google to save your progress and access personalized features, or continue as a guest.
+3. **Choose Your Program:** Select your college, branch, year, semester, and subject to find relevant academic resources.
+4. **Explore Resources:** Access notes, PYQs, syllabi, formula sheets, practical resources, and other study materials.
+5. **Use AI Tools:** Use the Smart AI Doubt Solver and other learning tools whenever you need help understanding a concept.
 
 <br />
 
 ## ✨ Platform Tools & Features
 
-SKiL MATRiX is packed with powerful tools to accelerate your learning. Access them directly from your dashboard:
+SKiL MATRiX brings academic resources and learning tools together in one platform.
 
+Explore study notes, PYQs, AI-powered assistance, coding practice, and student-focused productivity features from your dashboard.
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
