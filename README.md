@@ -47,44 +47,19 @@ https://skilmatrix.site
 
 ## 🚀 How to Use SKiL MATRiX
 
-<div align="center">
+Getting started is simple. Follow the path that matches what you need:
 
-**Your journey from finding resources to improving your skills.**
+1. **🌐 Visit the Platform:** Open [skilmatrix.site](https://skilmatrix.site) and enter the SKiL MATRiX learning platform.
 
-</div>
+2. **🔐 Sign In or Continue as Guest:** Sign in with Google to save your progress and access personalized features, or continue as a guest for quick browsing.
 
-```mermaid
-flowchart LR
-    A["🌐 Visit<br/>SKiL MATRiX"] --> B{"🔐 Sign In<br/>or Guest?"}
+3. **📚 Find Your Academic Resources:** Select your **college, branch, year, semester, and subject** to discover relevant study notes, PYQs, formula sheets, syllabi, and practical resources.
 
-    B -->|Google Login| C["🎓 Personalized<br/>Dashboard"]
-    B -->|Continue as Guest| D["👀 Explore<br/>Platform"]
+4. **🤖 Learn with AI:** Use the available AI learning tools to ask questions, clarify difficult concepts, and get step-by-step explanations while studying.
 
-    C --> E["🏫 Select College"]
-    D --> E
+5. **💻 Practice & Improve:** Strengthen your programming skills through the **Coding Arena**, track your progress with learning tools, and participate in the platform's student community.
 
-    E --> F["💻 Choose Branch"]
-    F --> G["📚 Select Year & Semester"]
-    G --> H["📖 Choose Subject"]
-
-    H --> I["📚 Study Notes & PYQs"]
-    H --> J["📋 Syllabus &<br/>Formula Sheets"]
-    H --> K["🧪 Practical Resources"]
-
-    I --> L["🤖 AI Learning Tools"]
-    J --> L
-    K --> L
-
-    L --> M["💡 Ask Questions"]
-    M --> N["🧠 Understand & Learn"]
-
-    N --> O["💻 Coding Arena"]
-    O --> P["📈 Track Progress"]
-
-    P --> Q["🏆 Earn Points"]
-    Q --> R["🌟 Climb Leaderboard"]
-    R --> S["🎁 Unlock Rewards"]
-
+6. **🏆 Track Your Progress:** Use your dashboard to monitor your learning activity, explore your progress, earn points, and engage with the SKiL MATRiX community.
 <br />
 
 ## ✨ Platform Tools & Features
