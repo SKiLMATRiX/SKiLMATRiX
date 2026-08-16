@@ -18,7 +18,7 @@
   <a href="https://skilmatrix.site">
     <img src="https://img.shields.io/badge/🌐_Visit_SKIL_MATRiX-00D9FF?style=for-the-badge" alt="Visit SKiL MATRiX">
   </a>
-  <img src="https://img.shields.io/badge/ACCESS-FREE_FOR_STUDENTS-00E676?style=for-the-badge" alt="Free for Students">
+  <img src="https://img.shields.io/badge/LIVE-FREE_FOR_STUDENTS-00E676?style=for-the-badge" alt="Live Platform - Free for Students">
 </p>
 
 <p>
@@ -106,7 +106,7 @@ Explore study notes, PYQs, AI-powered assistance, coding practice, and student-f
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 Premium User Experience</h3>
+      <h3>✨ Modern Learning Experience</h3>
       <ul>
         <li><b>Glassmorphic UI:</b> A sleek, translucent, and highly modern aesthetic.</li>
         <li><b>Distraction-Free Mode:</b> Clean layouts focusing entirely on your educational content.</li>
@@ -120,7 +120,9 @@ Explore study notes, PYQs, AI-powered assistance, coding practice, and student-f
 
 ## 👑 Meet the Founders
 
-SKiL MATRiX is built by a passionate team dedicated to redefining digital education.
+<p>
+  SKiL MATRiX is built by a student-led team focused on making academic learning resources more accessible, organized, and useful.
+</p>
 
 <div align="center">
   <table width="100%">
@@ -163,8 +165,9 @@ SKiL MATRiX is built by a passionate team dedicated to redefining digital educat
 
 ## 📞 Support & Community
 
-Join thousands of students leveraging SKiL MATRiX. Connect with us to report issues, suggest features, or get support.
-
+<p>
+  Have feedback, found an issue, or have an idea? Connect with the SKiL MATRiX team to report issues, suggest features, or get support.
+</p>
 <div align="center">
   <a href="https://skilmatrix.site"><img src="https://img.shields.io/badge/Website-skilmatrix.site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://chat.whatsapp.com/JRfWjBhzkALJHPgeMAnNvT"><img src="https://img.shields.io/badge/WhatsApp-Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Community"/></a>
